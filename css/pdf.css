@@ -1,0 +1,103 @@
+body {
+	background: url("../images/bg.jpg") no-repeat;
+}
+
+.navbar-inverse {
+	background: #012E53;
+	border-color: #012E53;
+}
+
+.margin_top_250 {
+	margin-top: 250px;
+}
+
+.margin_top_220 {
+	margin-top: 220px;
+}
+
+.navbar-nav {
+    margin-top: 30px;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #99CCFF;
+    font-size: 16px;
+}
+
+h3 {
+	color: #fff;
+	text-align: center;
+	margin: 130px 0px 70px;
+	font-family: "Levenim MT";
+	font-size: 60px;
+	font-weight: 600;
+	text-shadow: 3px 3px #012E53;
+}
+
+h4 {
+	color: #dedede;
+	margin-bottom: 30px;
+	font-size: 30px;
+	font-weight: normal;
+	font-family: "Levenim MT";
+}
+
+h5 {
+	color: #fff;
+	font-family: "Levenim MT";
+	font-size: 60px;
+	font-weight: 600;
+	text-shadow: 3px 3px #012E53;
+}
+
+h6 {
+	color: #fff;
+	font-family: "Levenim MT";
+	font-size: 30px;
+	font-weight: 600;
+	text-shadow: 3px 3px #012E53;
+}
+
+.bg-primary {
+    color: #FFF;
+    background-color: #012E53;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px 0px;
+    border-radius: 5px;
+}
+
+.bg-danger {
+    color: #FFF;
+    background-color: #982315;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px 0px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.login {
+	background: #012E53;
+	border-radius: 5px;
+	padding: 30px 50px 40px;
+	box-shadow: 1px 1px 5px 4px #333;
+}
+
+
+.input-group-addon {
+	color: #FFF;
+	background-color: #337AB7;
+	border-color: #2E6DA4;
+}
+
+.form-control {
+	height: 42px;
+}
+
+.footer {
+	color: #fff;
+	font-size: 12px;
+	margin-bottom: 20px;
+	text-align: center;
+}
